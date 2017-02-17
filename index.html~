@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="payyzo">
+
+    <title>Payyzo</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+     <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/one-page-wonder.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><img style="margin-top: -2px; margin-right:740px;" src="images/logo.png"  ></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#about">About Us</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Register</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Full Width Image Header -->
+    <header class="header-image">
+       
+            <div class="container">
+            	<img src="images/image4.jpg" style="width:1200px; height:280px; margin-left:-30px; ">
+            	 <div class="headline">
+                <h1>"Because they need it" </h1>
+               
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <hr class="featurette-divider">
+
+        <!-- First Featurette -->
+        <div class="featurette" id="about">
+            <h2 class="featurette-heading">Our Realisation
+                <span class="text-muted">Will Catch Your Eye</span>
+            </h2>
+            <p class="lead">In a country of 1.3 billion, a small community of 10 million people is living a life of daily struggle. <strong>This community largely remains oppressed due to the tight grip of debt owed to unscrupulous loan sharks.</strong> Hawkers start their life with struggles, which are intensified/magnified by bad money management, borrowing at unreasonably high costs of money, being cheated by their suppliers
+and their entire livelihood depends on being able to sell their stock before it perishes. <br>
+These hawkers have no approximation on sale they can make in a day. Their livelihood can be affected by factors like rain as markets shut as soon as it rains. The municipalities, cops, and thugs harass them. They have nowhere to go and no one to listen to their woes. Every day is a gamble for them and on most days than not, their work earns them enough for a hand-to-mouth existence and to survive to see the next day. <br>
+While some in this community have been able to grow out of this misery and better their lives, the larger majority of the community still lives a dreadful life.  <br><br>
+What makes them feel all the more helpless is the fact that they are uneducated!<br>
+In a world that is rapidly adopting technology, they do not know how to read or write even their own mother tongue.</p>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- Second Featurette -->
+        <div class="featurette" id="services">
+            <img class="featurette-image img-circle img-responsive pull-left" src="images/image2.jpeg">
+            <h2 class="featurette-heading">A True Story </h2>
+            <p class="lead">Let's look into the life of Malanna: He was born and brought up in Bangalore. From a tender age of 15, he used to work in his father's fruit stall. Today, at the age of 60, he still does the same. He has 2 children. His daughter helps him with the fruit stall often. He says that the fruit line is one of the worst businesses anyone can be in. He never wishes for his children to be in this line. He has educated them and tells them to go out and find some better work for themselves and he hopes he is the last generation in his family to be in this line of business.<br><br><br></p>
+<p class=" lead1">
+A day in the life of Malanna:<br>
+● 3 AM: His day starts<br>
+● 3:30 AM: He heads to the market to buy his daily stock<br>
+● 3:30 AM to 5:30 AM: He interacts with the loan sharks, suppliers and other hawkers fighting to get the best goods at the best prices. <br>
+● 6 AM: Malanna heads to parks frequented by morning walkers to sell and sets up his stall <br>
+● 6:30 AM to 10 AM: He sells at these parks<br>
+● 10 AM: shifts base to the main market area where he will be stationed for the rest of the day <br>
+● 10:30 AM to 6 PM: hard work ensues <br>
+● 6 PM to 9 PM: The loan sharks come calling. They have to repay the money they have borrowed. <br>
+● 9 PM to 10:30 PM: They start wrapping up for the day. Reconcile the quantity of goods sold, the good remaining unsold with the sales and
+money they earned and paid off. Shut shop. <br>
+● 11 PM: They head home after a long day's work. A cold dinner and a sleeping family await the hawker. <br>
+● 12 AM: Hawker finally gets to sleep.</p>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- Third Featurette -->
+        <div class="featurette" id="contact">
+            <img class="featurette-image img-square img-responsive pull-right" src="images/image3.jpeg">
+            <h2 class="featurette-heading">Another Inspiration </h2>
+            <p class="lead">Meet Nandhakumar, a father, son & husband. He is at the market every day, come rain or shine. Very easy to miss, meeting him in the evenings, you will find crates lying empty which housed the goods he sold throughout the day. Help him get access to economical credit and build the house that he was always dreamt of! <br><br>
+Help him get out of the grip of these unscrupulous loan sharks!</p>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Your Website 2014</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
